@@ -1,0 +1,18 @@
+{
+  "name": "AI Legal Aid Multi-Agent System",
+  "description": "An AI-powered legal assistant using IBM watsonx.ai, Granite models, RAG and multi-agent workflows.",
+  "technology": [
+    "IBM watsonx.ai",
+    "IBM Granite Models",
+    "LangFlow",
+    "Retrieval Augmented Generation"
+  ],
+  "domain": "Legal Technology",
+  "agents": [
+    "Legal Knowledge Retrieval Agent",
+    "Contract Reviewer Agent",
+    "Compliance Checker Agent",
+    "Case Research Agent",
+    "Legal Q&A Agent"
+  ]
+}
